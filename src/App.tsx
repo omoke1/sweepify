@@ -30,7 +30,7 @@ function App() {
         <div className="eyebrow">Circle x Encode Hackathon MVP</div>
         <div className="hero-copy">
           <div>
-            <h1>SweepFi</h1>
+            <h1>Sweepify</h1>
             <p className="hero-text">
               A multi-agent crosschain treasury and trading system that keeps native
               USDC productive, routes it to the best risk-adjusted opportunity, and
@@ -257,3 +257,4 @@ function App() {
 }
 
 export default App
+

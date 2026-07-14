@@ -1,12 +1,12 @@
-# SweepFi
+# Sweepify
 
-SweepFi is a hackathon MVP for a crosschain autonomous capital allocator built around Circle `USDC` and `CCTP`.
+Sweepify is a hackathon MVP for a crosschain autonomous capital allocator built around Circle `USDC` and `CCTP`.
 
 ## Product thesis
 
 Idle treasury should not sit stranded on the wrong chain.
 
-SweepFi uses a three-agent system to keep capital productive in yield, spot better opportunities on another chain, move native `USDC` with `CCTP`, and top up margin before liquidation risk becomes critical.
+Sweepify uses a three-agent system to keep capital productive in yield, spot better opportunities on another chain, move native `USDC` with `CCTP`, and top up margin before liquidation risk becomes critical.
 
 ## Current MVP
 
@@ -45,3 +45,4 @@ npm run lint
 - Integrate one yield venue and one destination protocol
 - Add policy controls for treasury sizing and margin sweep thresholds
 - Add a demo mode and operator mode for judging
+
